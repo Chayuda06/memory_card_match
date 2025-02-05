@@ -5,7 +5,7 @@ void main() {
   runApp(const MemoryGameApp());
 }
 
-class MemoryGameApp extends StatelessWidget {
+class MemoryGameApp  StatelessWidget {
   const MemoryGameApp({super.key});
 
   @override
