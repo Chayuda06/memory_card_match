@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'level_selection_screen.';
+import 'level_selection_screen.dart';
 
 void main() {
   runApp(const MemoryGameApp());
 }
 
-class MemoryGameApp  StatelessWidget {
+class MemoryGameApp extends StatelessWidget {
   const MemoryGameApp({super.key});
 
   @override
