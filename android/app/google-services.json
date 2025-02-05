@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942481673638",
+    "project_id": "game-d7337",
+    "storage_bucket": "game-d7337.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942481673638:android:2836b40cefa4aff5e71367",
+        "android_client_info": {
+          "package_name": "com.example.memory_card_match"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABFhNvxv34qDorNBg5AaEIHPeGJuM482w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
